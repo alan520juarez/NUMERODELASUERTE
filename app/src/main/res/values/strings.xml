@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NUMERO DE LA SUERTE</string>
+    <string name="goku">Enter your name, age and goku will guess your lucky number </string>
+    <string name="Age">Age</string>
+    <string name="Name">enter your name </string>
+    <string name="startGamer">calculate lucky number</string>
+    
+</resources>
